@@ -10,5 +10,5 @@ format: `sort_number | ja_expression | en_meaning | audio | JaName | EnName`
 
 `table_ogg.csv` contains links to ogg sounds (original), `table_mp3.csv` contains links to mp3 sounds (if you have them)
 
-![screenshot](https://raw.githubusercontent.com/whew/steins-gate-anki/master/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/asakura42/steins-gate-anki/master/screenshot.png)
 
