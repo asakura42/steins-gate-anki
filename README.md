@@ -1,6 +1,6 @@
 # steins-gate-anki
 
-apkg (~850Mb): https://mega.nz/file/YcgUQY5R#FYbhLvSFO20WNGY8y1Lk2Tp9SbFX27cDAjav29XJ1wQ 
+apkg (~264Mb): https://disk.yandex.com/d/5OqVLAb5vso1hQ
 
 S;G anki deck
 
